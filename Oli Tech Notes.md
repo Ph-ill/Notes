@@ -1,0 +1,33 @@
+- ## Windows Tweaks & Utilities
+	- ### [Microsoft Powertoys](https://learn.microsoft.com/en-us/windows/powertoys/)
+		- it comes with a bunch of apps and tweaks that are all super well designed, there will be at least one you find useful and you can disable all the others
+		-  now you have a 3d printer you'll for sure find the 3d file thumbnails feature useful
+		-  it modifies explorer to show models like this
+			-  ![[WhatsApp Image 2023-04-14 at 02.38.10.jpg]]
+		- oh another thing powertoys adds that I find very very useful is powertoys run
+		- You just press a hotkey in my case ctrl+space I think it defaults to alt+space and you get a text based launcher and you can use it to search for files, search for applications to run and I think even search google and do a couple of other things, run scripts etc.
+			- ![[Pasted image 20230414104902.png]]
+	- ### [Tinkercad](https://tinkercad.com)
+		- on that note to start making 3d models to print you'll want to look into tinkercad
+		- super basic web based cad software, this will probably be the first thing you want to learn to use to create your own models
+	- ### [Shapr3D](https://www.shapr3d.com/)
+		- and then when you're ready upgrade to the free version of this https://www.shapr3d.com/ 
+		- the free version will likely have all the features you'll actually need to use
+		- and it cloud stores your files for use on it's ipad and ios app versions so you can switch between them super easily
+		- I use mine like this all the time ![[WhatsApp Image 2023-04-14 at 02.42.51.jpg]]
+	- ### [Fusion 360](https://www.autodesk.co.uk/products/fusion-360/personal)
+		- Then when you're a proper whizz kid you'll want to switch to fusion 360 personal edition 
+		- which is as close as you can get to proper cad software for free and what a lot of professionals use
+	- ### [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher/releases)
+		- ok and another thing I did to make windows 11 a lot better was install explorerpatcher and suit tweak explorer to remove some annoyances and add some cool stuff 
+	- ### [macOS cursors for Windows](https://github.com/antiden/macOS-cursors-for-Windows)
+		- This a nice tweak too, look good on windows 11 imo
+	- ### Guest Wifi QR Code
+		- give me your wifi deets and I can make you one of these too
+			- ![[WhatsApp Image 2023-04-14 at 10.08.11.jpg]]
+		- It allows guests to connect to your wifi quickly on ios on Android without the need to share your SSID or password
+	- ### 3D Printer File Indexers
+		- #### [Printables](https://printables.com)
+		- #### [Cults3D](https://printables.com)
+		- #### [Thingiverse](https://thingiverse.com)
+		- #### [Thangs](https://thangs.com/)
