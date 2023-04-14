@@ -14,7 +14,7 @@
 		- and then when you're ready upgrade to the free version of this https://www.shapr3d.com/ 
 		- the free version will likely have all the features you'll actually need to use
 		- and it cloud stores your files for use on it's ipad and ios app versions so you can switch between them super easily
-		- I use mine like this all the time ![iPad Shapr3D](https://github.com/Ph-ill/Notes/blob/275d942b1189ecb9699f2befda0171495391b0f5/Misc%20Notes/attachments/WhatsApp%20Image%202023-04-14%20at%2002.42.51.jpg
+		- I use mine like this all the time ![iPad Shapr3D](https://github.com/Ph-ill/Notes/blob/275d942b1189ecb9699f2befda0171495391b0f5/Misc%20Notes/attachments/WhatsApp%20Image%202023-04-14%20at%2002.42.51.jpg)
 	- ### [Fusion 360](https://www.autodesk.co.uk/products/fusion-360/personal)
 		- Then when you're a proper whizz kid you'll want to switch to fusion 360 personal edition 
 		- which is as close as you can get to proper cad software for free and what a lot of professionals use
